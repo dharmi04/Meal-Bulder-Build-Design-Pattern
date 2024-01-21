@@ -54,7 +54,7 @@ This Java project demonstrates the use of the Builder Design Pattern to construc
    java Client
    ```
 
-   ##OUTPUT
+# OUTPUT
    <img width="287" alt="img1" src="https://github.com/dharmi04/Meal-Bulder-Build-Design-Pattern/assets/122154176/a06a6fc6-1312-4274-acd3-c8ade63fb596">
    <img width="415" alt="img2" src="https://github.com/dharmi04/Meal-Bulder-Build-Design-Pattern/assets/122154176/30e2d70e-4698-4dbb-8d4e-7fb668e79309">
 
