@@ -14,6 +14,6 @@ public class Product {
 
     @Override
     public String toString() {
-        return "Product { Item1: " + part1 + ", Item2: " + part2 + " }";
+        return "Product { Dish-1: " + part1 + ", Dish-2: " + part2 + " }";
     }
 }
